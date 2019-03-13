@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hello
 world
+=======
+hello
+world
+>>>>>>> 4041cac322ac87664772dfca932f459134bcc71e
 zj

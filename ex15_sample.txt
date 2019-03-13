@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 This is stuff I typed into a file.
 It is really cool stuff.
+=======
+This is stuff I typed into a file.
+It is really cool stuff.
+>>>>>>> 4041cac322ac87664772dfca932f459134bcc71e
 Lots and lots of fun to have in here.
